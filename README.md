@@ -47,11 +47,3 @@ KNeighborsClassifier
 
 ⭐ Most products fall between 3.5 to 4.5 in user ratings.
 
-📌 Future Work
-Deploy the model as a Flask or Streamlit web app
-
-Automate web scraping using schedulers (e.g., cron, Airflow)
-
-Expand to include user review sentiment analysis
-
-
