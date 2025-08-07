@@ -9,27 +9,6 @@ This project showcases the full lifecycle of a data science project using real-w
 
 📈 Evaluation & Insights for business-driven decisions
 
-📁 Project Structure
-bash
-Copy
-Edit
-myntra-project/
-│
-├── data/                   # Contains raw and cleaned datasets
-├── notebooks/              # Jupyter notebooks for EDA, visualization, and ML
-├── models/                 # Saved models (optional)
-├── images/                 # Graphs and plots generated from the data
-├── README.md               # Project documentation
-├── requirements.txt        # Required libraries
-└── main.py                 # Project's main runner script (if applicable)
-🛠️ Technologies Used
-Web Scraping
-selenium
-
-webdriver
-
-time.sleep() for throttling requests
-
 Data such as product name, brand, rating, price, discount, etc., were scraped directly from the Myntra website.
 
 Data Analysis
