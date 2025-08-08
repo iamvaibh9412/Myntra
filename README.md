@@ -36,7 +36,7 @@ RandomForestClassifier
 
 LogisticRegression
 
-SVM (Support Vector Machine)
+SVM
 
 KNeighborsClassifier
 
