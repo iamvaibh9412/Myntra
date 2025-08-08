@@ -32,13 +32,13 @@ Top-rated and top-discounted products
 Machine Learning
 To predict Product Ratings, the following models were trained and evaluated:
 
-RandomForestClassifier
+RandomForestClassifier: Model RandomForest — Accuracy: 0.9769
 
-LogisticRegression
+LogisticRegression: Model LogisticRegression — Accuracy: 0.7222
 
-SVM
+SVM (Support Vector Machine): Model SVM — Accuracy: 0.6343
 
-KNeighborsClassifier
+KNeighborsClassifier:  Model KNN — Accuracy: 0.6296
 
 🚀 Results & Insights
 ✅ Random Forest outperformed others in terms of accuracy and stability.
