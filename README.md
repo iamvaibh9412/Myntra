@@ -1,7 +1,4 @@
-🛍️ Myntra Product Analysis & Rating Prediction
-This project showcases the full lifecycle of a data science project using real-world data from Myntra, a leading fashion e-commerce platform in India. The project involves:
 
-🔍 Web Scraping product data using Selenium
 
 📊 Data Analysis & Visualization using Pandas, Matplotlib, Seaborn, and Plotly
 
